@@ -8,7 +8,7 @@ import requests
 logging.basicConfig(level=logging.INFO)
 
 # Токен вашего бота, который вы получили от BotFather
-BOT_TOKEN = '7021832817:AAG6aE1YZx9Uj2AsDRwwoOpKARvCnHSDnFc'
+BOT_TOKEN = ''
 
 # URL для получения курса юаня (можете использовать другой источник данных)
 YUAN_EXCHANGE_RATE_URL = "https://api.exchangerate-api.com/v4/latest/CNY"
